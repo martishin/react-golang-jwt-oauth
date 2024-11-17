@@ -1,7 +1,7 @@
 # React-Golang OAuth
 An example project demonstrating user authentication and authorization using React for the frontend and Go for the backend. This project includes Google OAuth 2.0 for login and secure JWT based user session management with refresh tokens.
 
-<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDA2M25kazE4eTB3dGV0dnB1dXFmNnllY2NkODduY2NmaDVreTR2MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KtKvOlylZtd9oOJQNF/giphy.gif" width="700"/>
+<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDA2M25kazE4eTB3dGV0dnB1dXFmNnllY2NkODduY2NmaDVreTR2MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KtKvOlylZtd9oOJQNF/giphy.gif" width="400"/>
 
 ## Setup
 ### Prerequisites
