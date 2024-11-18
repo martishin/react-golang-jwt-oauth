@@ -3,6 +3,8 @@ An example project demonstrating user authentication and authorization with a Re
 
 <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnRwbDB6cmN2emtiaXhpY3hydWI3ZGJtbGM0cHZ2dzEzZXAxaHA5dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KtKvOlylZtd9oOJQNF/giphy.gif" width="400"/>
 
+This project uses JWT tokens, for a simpler setup that uses session cookies, please check [this project](https://github.com/martishin/react-golang-goth-oauth).
+
 ## Setup
 ### Prerequisites
 1. Install the dependencies:
