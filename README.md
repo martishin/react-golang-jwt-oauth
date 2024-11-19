@@ -1,9 +1,9 @@
 # React-Golang OAuth
 An example project demonstrating user authentication and authorization with a React.js frontend and a Go backend. It integrates Google OAuth 2.0 for secure login and uses JWT with refresh tokens for session management.
 
-<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnRwbDB6cmN2emtiaXhpY3hydWI3ZGJtbGM0cHZ2dzEzZXAxaHA5dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KtKvOlylZtd9oOJQNF/giphy.gif" width="400"/>
-
 This project uses JWT tokens, for a simpler setup that uses session cookies, please check [this project](https://github.com/martishin/react-golang-goth-oauth).
+
+<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnRwbDB6cmN2emtiaXhpY3hydWI3ZGJtbGM0cHZ2dzEzZXAxaHA5dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KtKvOlylZtd9oOJQNF/giphy.gif" width="400"/>
 
 ## Setup
 ### Prerequisites
@@ -17,8 +17,8 @@ This project uses JWT tokens, for a simpler setup that uses session cookies, ple
 ### Steps
 1. Clone the repository:
    ```bash
-   git clone git@github.com:martishin/react-golang-oauth.git
-   cd react-golang-oauth
+   git clone git@github.com:martishin/react-golang-jwt-oauth.git
+   cd react-golang-jwt-oauth
    ```
 2. Set up environment variables YOUR_GOOGLE_APP_CLIENT_ID and YOUR_GOOGLE_APP_CLIENT_SECRET in the code
 3. Start the database:
